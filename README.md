@@ -1,4 +1,4 @@
-⚡ Smart Electricity & Consumer Management System — Hyperledger Fabric
+⚡** Smart Electricity & Consumer Management System — Hyperledger Fabric**
 📌 Overview: A blockchain-based electricity consumer management system built on Hyperledger Fabric for secure, decentralized operations.
 
 🔒 Privacy & Transparency: Enables high-security service delivery with reduced physical interactions and improved consumer convenience.
